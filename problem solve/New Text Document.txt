@@ -1,0 +1,11 @@
+ after download first run npm start
+ 
+five all file access on .gradle then into the .gradle deleted dependencies-accessors
+
+go to the cmd and run as adminesitetor and cd project path and then run this tow comment 
+
+gradlew clean
+gradlew build --refresh-dependencies
+
+
+./ gradlew bundleRelease
